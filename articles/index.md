@@ -1,4 +1,4 @@
-# 20190920 Azure-203 Edu!!
+# 20190920 Azure-203 Edu!! 실습합니다
 
 # Azure DevOps HOL
 
